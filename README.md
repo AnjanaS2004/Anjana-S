@@ -1,7 +1,9 @@
 <h1>Hi there!!!</h1><br>
 <h2>I am Anjana</h2>
 ### Hi there 👋, Anjana S
-![](0C:\Users\anjan\Downloads\WhatsApp Image 2024-06-28 at 12.03.28 PM.jpeg)
+C:\Users\anjan\Downloads\WhatsApp Image 2024-06-28 at 12.03.28 PM.jpeg
+
+
 
  I am a passionate computer science student dedicated to acquiring knowledge in various programming languages and technologies. With a strong interest in software development and problem-solving, I am eager to apply my skills and learn from real-world experiences in the tech industry.
 

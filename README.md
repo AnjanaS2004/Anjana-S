@@ -1,5 +1,4 @@
 ### Hi there 👋, Anjana S
-![]https://github.com/AnjanaS2004/Anjana-S/blob/main/image.jpg
  I am a passionate computer science student dedicated to acquiring knowledge in various programming languages and technologies. With a strong interest in software development and problem-solving, I am eager to apply my skills and learn from real-world experiences in the tech industry.
 
 

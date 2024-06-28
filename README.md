@@ -1,6 +1,5 @@
 ### Hi there 👋, Anjana S
-![][(https://media.licdn.com/dms/image/D5616AQH9OzVTt0DdZw/profile-displaybackgroundimage-shrink_350_1400/0/1699416715912?e=1724889600&v=beta&t=PsLAmMNqstFPhakb0DML3J4RldVnBq4IXsGohUzdoQI)
-](https://github.com/AnjanaS2004/Anjana-S/blob/main/image.jpg.jpeg)
+![]https://github.com/AnjanaS2004/Anjana-S/blob/main/image.jpg.jpeg
  I am a passionate computer science student dedicated to acquiring knowledge in various programming languages and technologies. With a strong interest in software development and problem-solving, I am eager to apply my skills and learn from real-world experiences in the tech industry.
 
 

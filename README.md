@@ -1,7 +1,8 @@
 <h1>Hi there!!!</h1><br>
 <h2>I am Anjana</h2>
 ### Hi there 👋, Anjana S
-C:\Users\anjan\Downloads\WhatsApp Image 2024-06-28 at 12.03.28 PM.jpeg
+
+<img src="C:\Users\anjan\Downloads\WhatsApp Image 2024-06-28 at 12.03.28 PM.jpeg">
 
 
 

@@ -1,9 +1,5 @@
-
-<h1>Hi there 👋, Anjana S</h1>
-
-<img src="C:\Users\anjan\Downloads\WhatsApp Image 2024-06-28 at 12.03.28 PM.jpeg">
-
-
+### Hi there 👋, Anjana S
+![](https://media.licdn.com/dms/image/D5616AQH9OzVTt0DdZw/profile-displaybackgroundimage-shrink_350_1400/0/1699416715912?e=1724889600&v=beta&t=PsLAmMNqstFPhakb0DML3J4RldVnBq4IXsGohUzdoQI)
 
  I am a passionate computer science student dedicated to acquiring knowledge in various programming languages and technologies. With a strong interest in software development and problem-solving, I am eager to apply my skills and learn from real-world experiences in the tech industry.
 
@@ -21,5 +17,4 @@ Skills:  JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaS2004)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjanaS2004&show_icons=true)  
-
 
